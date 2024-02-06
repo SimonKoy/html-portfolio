@@ -1,0 +1,45 @@
+body {
+    background-color: beige;
+    font-size: 1.0rem;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 12px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    color: brown;
+}
+
+.sentinel {
+    text-align: center;
+    /* background-color: bisque; */
+    margin-top: 0;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.roxbury {
+    text-align: center;
+   /* background-color: aquamarine; */
+    margin-top: 0;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.schindeler {
+    text-align: center;
+   /* background-color: antiquewhite; */
+    margin-top: 0;
+    padding-left: 1%;
+    padding-right: 1%;
+}
